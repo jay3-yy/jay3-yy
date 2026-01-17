@@ -5,7 +5,7 @@
 - 📫 How to reach me :
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--爱发电主页：https://afdian.com/a/jay3-yy
+-  爱发电主页：https://afdian.com/a/jay3-yy
 <!---
 jay3-yy/jay3-yy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
