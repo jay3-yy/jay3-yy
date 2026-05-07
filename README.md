@@ -5,6 +5,7 @@
 <br/>
 
 <a href="https://x.com/YangY_0x00"><img src="https://img.shields.io/badge/X-@YangY__0x00-0969DA?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://t.me/YYang666888"><img src="https://img.shields.io/badge/Telegram-@YYang666888-0969DA?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/jay3-yy?tab=followers"><img src="https://img.shields.io/github/followers/jay3-yy?style=for-the-badge&logo=github&label=Followers&labelColor=ffffff&color=0969DA&logoColor=0969DA" /></a>
 <a href="https://github.com/jay3-yy/BiliPai"><img src="https://img.shields.io/github/stars/jay3-yy/BiliPai?style=for-the-badge&logo=star&label=BiliPai&labelColor=ffffff&color=0969DA&logoColor=0969DA" /></a>
 <img src="https://komarev.com/ghpvc/?username=jay3-yy&style=for-the-badge&color=0969DA&label=Visitors&labelColor=ffffff" />
