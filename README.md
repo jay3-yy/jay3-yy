@@ -93,7 +93,7 @@
 
 <br/>
 
-### 🐍 Watch the snake eat my contributions
+### 🐍 Watch the snake eat my 2026 contributions
 
 <div align="center">
 
