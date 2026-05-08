@@ -35,7 +35,6 @@ I am focused on **BiliPai**, a third-party Android client for Bilibili built aro
 - Player-first details: DASH, danmaku, gestures, background playback, PiP, audio mode and playback memory.
 - Extensible app surface: built-in plugins, JSON rule plugins and native plugin experiments.
 - Tablet and foldable support with large-screen navigation and theater layouts.
-- Recently learning Android reverse engineering and low-level networking to better understand playback, protocol and runtime behavior.
 
 ## BiliPai at a glance
 
